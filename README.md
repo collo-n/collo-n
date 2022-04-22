@@ -4,8 +4,5 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=collo-n&layout=compact)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=collo-n&repo=repo-name)](https://github.com/yourusername/repo-name)
-
-
-
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=collo-n&repo=repo-name)](https://github.com/collo-n/Portfolio)
 
