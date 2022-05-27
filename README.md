@@ -6,13 +6,12 @@
 
 ### Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=collo-n&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
+![](https://github-readme-stats.vercel.app/api?username=collo-n&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
 <br>
 
 ### Streaks :fire:
+![](https://github-readme-streak-stats.herokuapp.com/?user=collo-n&theme=city-lights)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collo-n&theme=city-lights" alt="collo-n" /></p>
-<br>
 
 
 
