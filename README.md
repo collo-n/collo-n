@@ -38,6 +38,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+[![Make.com](https://img.shields.io/badge/-Make.com-333?style=flat&logo=make.com&logoColor=white)](https://www.make.com/)
+[![n8n](https://img.shields.io/badge/-n8n-333?style=flat&logo=n8n)](https://n8n.io/)
+
 
 ---
 
