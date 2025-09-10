@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Collins (collo-n)
 
-# 💫 About Me:
+# About Me:
 Software Developer passionate about modern web technologies, cloud, and automation.<br>I enjoy building elegant solutions to complex problems.<br>Currently exploring cloud infrastructure and AI.<br>Always happy to talk C#, JavaScript, PHP, GitHub Actions, and more!
 
 
@@ -23,14 +23,9 @@ Software Developer passionate about modern web technologies, cloud, and automati
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=collo-n&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
 #### 🎧 Currently Listening
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=afs01xhyplphr41ostl1z6cwn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
----
 
-_Thanks for visiting! ⭐️ If you like my work, consider following or starring a repo!_
+_Thanks for visiting! If you like my work, consider following or starring a repo!
